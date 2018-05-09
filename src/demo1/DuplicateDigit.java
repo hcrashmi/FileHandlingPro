@@ -19,9 +19,6 @@ public class DuplicateDigit
 			if(count!=0)
 			{
 				System.out.println(i +"\t" +count);
-				
-				//extra comment
-				System.out.println(count);
 			}
 		}
 		
