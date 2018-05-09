@@ -2,7 +2,7 @@ package demo1;
 
 public class ReverseEach {
 	public static void main(String[] args) {
-		String s2="I am here for interview";
+		String s2="I am here for interview now";
 		
 		char[] ch=s2.toCharArray();
 		String res="";
@@ -16,7 +16,7 @@ public class ReverseEach {
 			i++;
 		}
 			//res=res+s1+" ";
-			res=s1+res+" ";
+			res=s1+res+"";
 		}
 		
 		System.out.println(res);
