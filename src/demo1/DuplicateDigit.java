@@ -3,7 +3,7 @@ package demo1;
 public class DuplicateDigit
 {
 	public static void main(String[] args) {
-		int n=1233627;
+		int n=1452654;
 		int[] digitArray=new int[10];
 		int rem=0;
 		while(n>0)
